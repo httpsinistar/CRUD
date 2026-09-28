@@ -1,6 +1,6 @@
 <?php require_once ('verificarAcesso.php');?>
 <?php require_once ('cabecalho.php'); ?>
-    <a href="index.php" class="w3-display-topleft">
+    <a href="principal.php" class="w3-display-topleft">
     <i class="fa fa-arrow-circle-left w3-large w3-teal w3-button w3-xxlarge"></i>
     </a>
         <?php

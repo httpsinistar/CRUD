@@ -7,13 +7,13 @@
         $sql = "INSERT INTO amigo (nome, apelido, email) VALUES ('".$_POST['txtNome']."', '".$_POST['txtApelido']."', '".$_POST['txtEmail']."')";
             if ($conexao->query($sql) === TRUE) {
                 echo '
-                <a href="index.php">
+                <a href="principal.php">
                     <h1 class="w3-button w3-teal">Amigo Salvo com sucesso! </h1>
                 </a>
                 ';
             } else {
                 echo '
-                <a href="index.php">
+                <a href="principal.php">
                     <h1 class="w3-button w3-teal">ERRO! </h1>
                 </a>
                 ';

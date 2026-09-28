@@ -2,7 +2,7 @@
     <div class="w3-container w3-round-xxlarge w3-display-middle w3-card-4 w3-third" style="">
         <div class="w3-center">
             <br>
-            <img src="img/gabi.jpg" alt="Gabi" style="width:40%" class="w3-circle w3-margin-top">
+            <img src="gabi.jpg" alt="Gabi" style="width:40%" class="w3-circle w3-margin-top">
         </div>
         <form class="w3-container " action="loginAction.php" method="post">
             <div class="w3-section">
